@@ -1,4 +1,6 @@
-// @autor LuisM
+/**
+ * @autor LuisM
+ */
 #define Delay_1s 1000
 
 void setup() {
