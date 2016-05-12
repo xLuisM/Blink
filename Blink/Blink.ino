@@ -1,5 +1,6 @@
 /**
- * #autor LuisM
+ * @autor LuisM
+ * @version 2.1
  */
 #define Delay_1s 1000
 
